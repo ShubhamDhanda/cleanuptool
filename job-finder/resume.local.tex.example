@@ -1,8 +1,0 @@
-% Keep your private resume in resume.local.tex.
-% That file is gitignored. This example is safe to commit.
-%
-% The app expects normal LaTeX resume content here, for example:
-%
-% \newcommand{\name}{Shubham Dhanda}
-% \section{\textbf{Summary}}
-% Backend platform engineer with 2 years of experience...
