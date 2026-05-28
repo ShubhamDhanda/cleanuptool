@@ -1,0 +1,7 @@
+/cleanuptool
+/cleanup-tool
+/dist/
+/.gocache/
+*.test
+coverage.out
+.DS_Store
